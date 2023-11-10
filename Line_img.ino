@@ -8,7 +8,7 @@
 
 // Enter your WiFi ssid and password
 char ssid[] = "Yamato";       // your network SSID (name)
-char pass[] = "27182818";  // your network password
+char pass[] = "15926535";  // your network password
 int status = WL_IDLE_STATUS;
 String Linetoken = "MIKU_88888888888888888888888888888888888888";  //Line Notify Token. You can set the value of xxxxxxxxxx empty if you don't want to send picture to Linenotify.
 
